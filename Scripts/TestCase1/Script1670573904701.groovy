@@ -40,7 +40,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'Test')
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'Testing Comment')
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'))
 
